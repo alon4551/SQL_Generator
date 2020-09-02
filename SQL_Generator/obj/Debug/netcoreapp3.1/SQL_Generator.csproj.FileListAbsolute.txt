@@ -1,0 +1,13 @@
+D:\Mincrosoft Visual Studio\2019\source\SQL_Generator\SQL_Generator\obj\Debug\netcoreapp3.1\SQL_Generator.csprojAssemblyReference.cache
+D:\Mincrosoft Visual Studio\2019\source\SQL_Generator\SQL_Generator\obj\Debug\netcoreapp3.1\SQL_Generator.AssemblyInfoInputs.cache
+D:\Mincrosoft Visual Studio\2019\source\SQL_Generator\SQL_Generator\obj\Debug\netcoreapp3.1\SQL_Generator.AssemblyInfo.cs
+D:\Mincrosoft Visual Studio\2019\source\SQL_Generator\SQL_Generator\obj\Debug\netcoreapp3.1\SQL_Generator.csproj.CoreCompileInputs.cache
+D:\Mincrosoft Visual Studio\2019\source\SQL_Generator\SQL_Generator\bin\Debug\netcoreapp3.1\SQL_Generator.exe
+D:\Mincrosoft Visual Studio\2019\source\SQL_Generator\SQL_Generator\bin\Debug\netcoreapp3.1\SQL_Generator.deps.json
+D:\Mincrosoft Visual Studio\2019\source\SQL_Generator\SQL_Generator\bin\Debug\netcoreapp3.1\SQL_Generator.runtimeconfig.json
+D:\Mincrosoft Visual Studio\2019\source\SQL_Generator\SQL_Generator\bin\Debug\netcoreapp3.1\SQL_Generator.runtimeconfig.dev.json
+D:\Mincrosoft Visual Studio\2019\source\SQL_Generator\SQL_Generator\bin\Debug\netcoreapp3.1\SQL_Generator.dll
+D:\Mincrosoft Visual Studio\2019\source\SQL_Generator\SQL_Generator\bin\Debug\netcoreapp3.1\SQL_Generator.pdb
+D:\Mincrosoft Visual Studio\2019\source\SQL_Generator\SQL_Generator\obj\Debug\netcoreapp3.1\SQL_Generator.dll
+D:\Mincrosoft Visual Studio\2019\source\SQL_Generator\SQL_Generator\obj\Debug\netcoreapp3.1\SQL_Generator.pdb
+D:\Mincrosoft Visual Studio\2019\source\SQL_Generator\SQL_Generator\obj\Debug\netcoreapp3.1\SQL_Generator.genruntimeconfig.cache
