@@ -2,10 +2,13 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <TargetFramework>net472</TargetFramework>
     <Authors>Alon Shraybman</Authors>
     <Company>Alon.inc</Company>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    
+    <RepositoryUrl>https://nuget.pkg.github.com/alon4551/index.json</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
   </PropertyGroup>
 
 </Project>

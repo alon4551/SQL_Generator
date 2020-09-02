@@ -6,6 +6,7 @@
     <authors>Alon Shraybman</authors>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Package Description</description>
+    <repository type="git" url="https://nuget.pkg.github.com/alon4551/index.json" />
     <dependencies>
       <group targetFramework=".NETCoreApp3.1" />
     </dependencies>
